@@ -12,3 +12,4 @@ C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Release\Minecra
 C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Release\Minecraft_project.csproj.CoreCompileInputs.cache
 C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Release\Minecraft_project.exe
 C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Release\Minecraft_project.pdb
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Release\Minecraft_project.csprojAssemblyReference.cache
