@@ -1,0 +1,15 @@
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\bin\Debug\Minecraft_project.exe.config
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\bin\Debug\Minecraft_project.exe
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\bin\Debug\Minecraft_project.pdb
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\MainWindow.g.cs
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\App.g.cs
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project_MarkupCompile.cache
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project_MarkupCompile.lref
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\MainWindow.baml
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project.g.resources
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project.Properties.Resources.resources
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project.csproj.GenerateResource.cache
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project.exe
+C:\Users\Mi\source\repos\Minecraft_project\Minecraft_project\obj\Debug\Minecraft_project.pdb
